@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="MyTimeCounter/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
+    </header>
+    <body>
+      <trans-unit id="%lld days" xml:space="preserve">
+        <source>%lld days</source>
+        <target>%lld days</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Add" xml:space="preserve">
+        <source>Add</source>
+        <target>Add</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Event" xml:space="preserve">
+        <source>Event</source>
+        <target>Event</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Events" xml:space="preserve">
+        <source>Events</source>
+        <target>Events</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Last event" xml:space="preserve">
+        <source>Last event</source>
+        <target>Last event</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Last events" xml:space="preserve">
+        <source>Last events</source>
+        <target>Last events</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Last query" xml:space="preserve">
+        <source>Last query</source>
+        <target>Last query</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Max time" xml:space="preserve">
+        <source>Max time</source>
+        <target>Max time</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Query" xml:space="preserve">
+        <source>Query</source>
+        <target>Query</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Since last event" xml:space="preserve">
+        <source>Since last event</source>
+        <target>Since last event</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Since last query" xml:space="preserve">
+        <source>Since last query</source>
+        <target>Since last query</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Time Counter" xml:space="preserve">
+        <source>Time Counter</source>
+        <target>Time Counter</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Time lapse" xml:space="preserve">
+        <source>Time lapse</source>
+        <target>Time lapse</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MyTimeCounter/en.lproj/MyTimeCounter-InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="13.4.1" build-num="13F100"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>MyTimeCounter</source>
+        <target>MyTimeCounter</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
